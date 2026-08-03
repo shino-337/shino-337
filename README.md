@@ -25,9 +25,9 @@
 # 🎯 Current Goals
 
 - ✅ Build useful Open Source projects
-- 🚀 Learn Kubernetes
-- 🤖 Research AI Agents
-- 🌍 Contribute to OSS
+- 🚀 Learn
+- 🤖 Research
+- 🌍 Contribute
 
 ---
 
