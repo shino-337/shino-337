@@ -4,7 +4,7 @@
 
 ### 🚀 Security Engineer | AI Enthusiast | Open Source Lover
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Security Engineer;Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Things;Show some love! Hit follow and smash that Star button! 🌟" />
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=shino-337&label=Profile%20Views&color=0e75b6&style=flat" />
