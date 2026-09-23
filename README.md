@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shino-337&theme=tokyo-night"/>
+<img src="blob:https://gh-space-shooter.kiyo-n-zane.com/71f5a582-fec9-4cb7-ab53-fc530f46e841"/>
 
 </div>
 
